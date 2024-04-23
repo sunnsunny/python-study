@@ -8,3 +8,5 @@ print(type(a))
 b = "Hello Sunn"
 print(id(b))
 print(type(b))
+
+print("b:" + b)
